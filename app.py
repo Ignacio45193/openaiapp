@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("https://static.vecteezy.com/system/resources/previews/001/268/505/original/artificial-intelligence-background-concept-vector.jpg", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
